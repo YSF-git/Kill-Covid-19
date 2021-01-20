@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/BossVirus.png</file>
+        <file>images/Bullet.png</file>
+        <file>images/virus1.png</file>
+        <file>images/ImmuneSystem.png</file>
+        <file>images/BG.png</file>
+        <file>images/textBox.png</file>
+        <file>fonts/ARCADECLASSIC.TTF</file>
+        <file>images/virus1.png</file>
+    </qresource>
+</RCC>
